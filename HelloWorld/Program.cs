@@ -22,7 +22,7 @@ namespace HelloWorld
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("\nHere's three things about me that you might" +
+            Console.WriteLine("\nHere's three things about me that you might " +
                 "not know about me. Or maybe you do!");
             Console.WriteLine("\nMy name is Christian Lachapelle.");
             Console.WriteLine("I'm Gen X.");
